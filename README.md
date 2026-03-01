@@ -5,7 +5,11 @@
       <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
     </picture>
   </h1>
-</a>
+</a> 
+Thekarthek : BANGARU KARTHIK REDDY
+Github FLUTTER : https://github.com/thekarthek
+
+
 
 [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](https://flutter-dashboard.appspot.com/#/build?repo=flutter)
 [![Discord badge][]][Discord instructions]
